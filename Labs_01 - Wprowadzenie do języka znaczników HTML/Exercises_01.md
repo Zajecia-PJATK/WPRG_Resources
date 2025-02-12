@@ -1,7 +1,5 @@
 ## Laboratorium 1 - Wprowadzenie do języka znaczników HTML
 
-### Testowa edycja brancha
-
 **Zadanie 1** (X pkt)
 
 Wykorzystując język znaczników HTML, utwórz poniżej dokument, który będzie wyglądał następująco: 
